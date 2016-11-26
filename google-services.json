@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1042064706347",
+    "firebase_url": "https://coursegame-e724b.firebaseio.com",
+    "project_id": "coursegame-e724b",
+    "storage_bucket": "coursegame-e724b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042064706347:android:282195aaea1299d9",
+        "android_client_info": {
+          "package_name": "com.coursegame.coursegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042064706347-51ovi9nksc80ouok7trqtrsuq74f1f9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkGGaQ2CBsXun2U0ykELerSTVf7LDNCs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

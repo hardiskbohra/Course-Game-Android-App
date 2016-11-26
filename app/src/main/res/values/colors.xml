@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#202020</color>
+    <color name="colorAccent">#303030</color>
+    <color name="Back_1">#dedede</color>g
+    <color name="gold">#ffbf00</color>
+    <color name="temp1">#c6f2ff</color>
+    <color name="t2">#ff9292</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
